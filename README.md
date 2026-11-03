@@ -96,7 +96,7 @@ Multithreading (for saving backup)
 
 Clone the repository:
 
-git clone https://github.com/student-muskankumari/Hotel-Management.git
+git clone https://github.com/meesauravjaiswal/Hotel-Management
 
 
 Navigate to the folder:
